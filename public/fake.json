@@ -1,0 +1,47 @@
+[
+    {
+        "item": "Doctor Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/KFRppmk/1.jpg"
+    },
+    {
+        "item": "Theme Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/zSLP0Nb/2.jpg"
+    },
+    {
+        "item": "Mr. Mo Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/jRdxM19/3.jpg"
+    },
+    {
+        "item": "Choco Delight Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/qyXtw6d/4.jpg"
+    },
+    {
+        "item": "Orange Forest Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/LSXkJgm/5.jpg"
+    },
+    {
+        "item": "Bridal Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/GCnCVYC/6.jpg"
+    },
+    {
+        "item": "Yellow Delight Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/Q8ntY2M/7.jpg"
+    },
+    {
+        "item": "Campus Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/jVzSxKP/8.jpg"
+    },
+    {
+        "item": "BOO Cake",
+        "price": 4,
+        "img": "https://i.ibb.co/t8z0CtP/9.jpg"
+    }
+]

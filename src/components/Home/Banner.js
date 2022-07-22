@@ -4,7 +4,7 @@ import banner from "../../assets/img/banner.jpg";
 const Banner = () => {
   return (
     <div>
-      <img src={banner} alt="" />
+      <img style={{ minHeight: "50vh" }} src={banner} alt="" />
     </div>
   );
 };
